@@ -21,6 +21,22 @@ _**I experimented with frontendmentor.io challenges using HTML and CSS.**_
 * [Four card feature section](https://www.frontendmentor.io/solutions/fourcardfeaturesectionfigma-solution-7sXE97tihO)
 
 
+## **EDUCATION**
+
+#### High school / Center High school sentabr 2020 - may 2023
+
+
+## **LANGUAGE**
+* **English**       (_Intermediate_)
+
+* **Arabic**       (_Beginner_)
+
+* **Uzbek**        (_Native_)
+
+#### **HOBBIES and INTERESTS**
+
+Read books  | Skiing  | Diﬀerent culture
+
 
 
 
