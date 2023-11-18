@@ -1,5 +1,18 @@
-# Malikova Shahzoda 
+# Malikova Shahzoda  | malikovashahzoda968@gmail.com | [linkedin.com/in/ shahzoda](www.linkedin.com/in/malikovashahzoda)
 
-_For connect_   malikovashazoda968@gmail
- 
- 
+
+##  **Skills**
+
+*  **HTML**   (_Advance_) 
+
+* **CSS**   (_Advance_)
+
+* **SASS**  (_Intermediate_)
+
+* **Python**  (_Beginner_)
+
+
+
+
+
+
