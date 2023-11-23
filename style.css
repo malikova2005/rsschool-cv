@@ -1,0 +1,53 @@
+body{
+    background-color: aquamarine;
+    font-weight: 400;
+    line-height: 1.4;
+ }
+ 
+ #navbar{
+     display: flex;
+     justify-content: flex-end;
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     background:yellow;
+     z-index: 10;
+ }
+ .navbar-link{
+   font-size: 25px;
+   padding: 20px;
+   font-family: 'Poppins', sans-serif;
+   text-decoration: none;
+   height: 100vh;
+ }
+ 
+ .container{
+   max-width: 1200px;
+   padding: 0 20px;
+   margin: auto;
+   overflow: hidden;
+ }
+ 
+ #about .container {
+   height: 100%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+ }
+ #title {
+   color: #fff;
+   font-size: 35px;
+   font-family: "Popins",sans-serif;
+   font-weight: bolder;
+   line-height: 1.2;
+   margin-bottom: 10px;
+ }
+ 
+ .lead {
+   font-size: 30px;
+   color: #eee;
+   font-weight: 100;
+   margin: 0;
+ }
